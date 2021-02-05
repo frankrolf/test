@@ -4,36 +4,36 @@
 	<advance width="247"/>
 	<outline>
 		<contour>
-			<point x="83" y="-55" type="line"/>
-			<point x="83" y="-114"/>
-			<point x="71" y="-150"/>
-			<point x="23" y="-150" type="curve"/>
-			<point x="6" y="-150"/>
-			<point x="-11" y="-146"/>
-			<point x="-23" y="-142" type="curve"/>
-			<point x="-40" y="-204" type="line"/>
-			<point x="-23" y="-211"/>
-			<point x="2" y="-217"/>
-			<point x="32" y="-217" type="curve"/>
-			<point x="129" y="-217"/>
-			<point x="165" y="-154"/>
-			<point x="165" y="-55" type="curve"/>
-			<point x="165" y="486" type="line"/>
-			<point x="83" y="486" type="line"/>
+			<point x="-17" y="-55" type="line"/>
+			<point x="-17" y="-114"/>
+			<point x="-29" y="-150"/>
+			<point x="-77" y="-150" type="curve"/>
+			<point x="-94" y="-150"/>
+			<point x="-111" y="-146"/>
+			<point x="-123" y="-142" type="curve"/>
+			<point x="-140" y="-204" type="line"/>
+			<point x="-123" y="-211"/>
+			<point x="-98" y="-217"/>
+			<point x="-68" y="-217" type="curve"/>
+			<point x="29" y="-217"/>
+			<point x="65" y="-154"/>
+			<point x="65" y="-55" type="curve"/>
+			<point x="65" y="486" type="line"/>
+			<point x="-17" y="486" type="line"/>
 		</contour>
 		<contour>
-			<point x="125" y="586" type="curve"/>
-			<point x="156" y="586"/>
-			<point x="181" y="608"/>
-			<point x="181" y="639" type="curve"/>
-			<point x="181" y="671"/>
-			<point x="156" y="692"/>
-			<point x="125" y="692" type="curve"/>
-			<point x="93" y="692"/>
-			<point x="68" y="671"/>
-			<point x="68" y="639" type="curve"/>
-			<point x="68" y="608"/>
-			<point x="93" y="586"/>
+			<point x="25" y="586" type="curve"/>
+			<point x="56" y="586"/>
+			<point x="81" y="608"/>
+			<point x="81" y="639" type="curve"/>
+			<point x="81" y="671"/>
+			<point x="56" y="692"/>
+			<point x="25" y="692" type="curve"/>
+			<point x="-7" y="692"/>
+			<point x="-32" y="671"/>
+			<point x="-32" y="639" type="curve"/>
+			<point x="-32" y="608"/>
+			<point x="-7" y="586"/>
 		</contour>
 	</outline>
 </glyph>
